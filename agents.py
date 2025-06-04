@@ -7,7 +7,7 @@ from crewai import Agent
 from crewai.llm import LLM
 
 # Configuration
-GEMINI_API_KEY = "AIzaSyALkgl1UdmkvcSVXK3j9CYrKp6Um_Fxc1A"  # Replace with your API key
+GEMINI_API_KEY = "API KEY"  # Replace with your API key
 GEMINI_MODEL_NAME = "gemini-1.5-flash-002"
 
 class GeminiLLM(LLM):
